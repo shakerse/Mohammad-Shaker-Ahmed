@@ -1,4 +1,3 @@
-# Mohammad-Shaker-Ahmed
 # Mohammad Shaker Ahmed 👋
 
 📊 Data Analyst | Data-Driven Engineer | R Programming  
