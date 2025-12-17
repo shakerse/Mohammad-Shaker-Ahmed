@@ -1,6 +1,6 @@
 # Mohammad Shaker Ahmed 👋
 
-📊 Data Analyst | Data-Driven Engineer | R Programming  
+📊 Data Analyst | Data-Driven Engineer | R Programming | powerBI
 
 Data-driven engineer with strong academic and professional experience in **data analysis and visualization**. I hold an **M.Sc. in Water Management Engineering** from **Szent István University (Central Europe)** and an **M.Eng. in Biosystems Engineering** from the **University of Manitoba, Canada**.
 
@@ -28,6 +28,7 @@ Throughout my academic and professional journey, I have worked extensively with 
 - Energy analytics
 - Water management
 - Biosystems & environmental engineering
+- Business data analytics
 
 ---
 
